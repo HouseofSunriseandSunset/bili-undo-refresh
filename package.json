@@ -1,0 +1,7 @@
+{
+  "name": "bili-undo-refresh",
+  "version": "1.0.0",
+  "private": true,
+  "description": "哔哩哔哩 PC 客户端「撤回刷新」插件：推荐页刷新后可回退到上一批内容",
+  "main": "loader.js"
+}

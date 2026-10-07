@@ -1,0 +1,4 @@
+{
+  "preload": "__PLUGIN_DIR__\\preload.js",
+  "note": "Edit this file is enough - no need to repatch app.asar. __PLUGIN_DIR__ is replaced by the installer."
+}

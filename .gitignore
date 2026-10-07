@@ -1,0 +1,18 @@
+# 安装后生成的配置，含本机绝对路径，不要提交
+config.json
+
+# 打包产物（放到 Release 里，不进仓库）
+dist/
+*.zip
+
+# 日志
+*.log
+
+# 依赖（本项目零依赖，仅作保险）
+node_modules/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
